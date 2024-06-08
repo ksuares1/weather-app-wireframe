@@ -1,0 +1,13 @@
+main{
+    background: yellow;
+     width:50%;
+     height:45%;
+    margin:20%;
+}
+
+.weather-container{
+
+    border-color: aqua;
+    border-radius: 8px;
+
+}

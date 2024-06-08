@@ -6,8 +6,7 @@ main{
 }
 
 .weather-container{
-
-    border-color: aqua;
-    border-radius: 8px;
-
+    display: flex;
+    flex-wrap: nowrap;
+    margin:0 auto;
 }
